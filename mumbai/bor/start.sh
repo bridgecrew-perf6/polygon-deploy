@@ -36,4 +36,4 @@ bor --datadir $DATA_DIR \
   --allow-insecure-unlock \
   --maxpeers 200 \
   --metrics \
-  --pprof --pprof.port 7071 --pprof.addr '0.0.0.0' \
+  --pprof --pprof.port 7071 --pprof.addr '0.0.0.0'
